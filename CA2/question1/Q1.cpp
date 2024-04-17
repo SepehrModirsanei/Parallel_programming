@@ -8,8 +8,8 @@
 int main (void)
 {	
 	printf("%s\n", "Members of group are:");
-	printf("\n%s\n", "Sepehr - 810197637");
-	printf("%s\n", "Abbas - 810198415");
+	printf("\n%s\n", "Mehdi Jahani - 810196660");
+	printf("%s\n", "Soudabeh Mohammad Hashemi - 810197688");
 	
 	struct timeval start, end;
 
